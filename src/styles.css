@@ -51,7 +51,7 @@ form {
   font-size: 16px;
   border-radius: 50px;
   line-height: 20px;
-  color: #272044;
+  color: #68446d;
 }
 
 .submit-button {
@@ -70,7 +70,7 @@ form {
   background-color: #fff;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #f1965d;
+  border-left: 3px solid #68446d;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
 
